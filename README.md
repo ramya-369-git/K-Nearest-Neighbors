@@ -41,4 +41,5 @@ The dataset contains diagnostic measurements for patients, such as:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ramya-369-git/K-Nearest-Neighbors.git
+
